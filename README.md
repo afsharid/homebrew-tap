@@ -10,4 +10,4 @@ servers that get only what they need, redacted output, and guard hooks for seven
 harnesses.
 
 The formula installs the release binaries (macOS and Linux, arm64 and amd64) at the
-checksums the release publishes. Current: `0.6.1-alpha`.
+checksums the release publishes. Current: `0.7.0-alpha`.
