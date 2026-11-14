@@ -3,28 +3,28 @@
 class Passess < Formula
   desc "Last mile between your password manager and your AI coding agents"
   homepage "https://github.com/afsharid/passess"
-  version "0.10.3-alpha"
+  version "0.11.0-alpha"
   license "Apache-2.0"
 
   on_macos do
     on_arm do
-      url "https://github.com/afsharid/passess/releases/download/v0.10.3-alpha/passess_0.10.3-alpha_darwin_arm64.tar.gz"
-      sha256 "c7c583762e83b0595498e0c88bfbd57549ae704efd63725520929ba576159356"
+      url "https://github.com/afsharid/passess/releases/download/v0.11.0-alpha/passess_0.11.0-alpha_darwin_arm64.tar.gz"
+      sha256 "99f6bf68c893eccfcc374cc6eb62ecf2e636b28e1aad2542896051344047c652"
     end
     on_intel do
-      url "https://github.com/afsharid/passess/releases/download/v0.10.3-alpha/passess_0.10.3-alpha_darwin_amd64.tar.gz"
-      sha256 "2d4d2bfc731a102087cfb86788e5078e402c92e26c53be23cda2415f68ff0293"
+      url "https://github.com/afsharid/passess/releases/download/v0.11.0-alpha/passess_0.11.0-alpha_darwin_amd64.tar.gz"
+      sha256 "64ab40ace7e075aa273a66934310dedbd30a165d5d209f31c00fbdd3be3588e5"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/afsharid/passess/releases/download/v0.10.3-alpha/passess_0.10.3-alpha_linux_arm64.tar.gz"
-      sha256 "7c664378b0148ff50f65a2c9057e09b7665cccc2affc692374d5524355649b66"
+      url "https://github.com/afsharid/passess/releases/download/v0.11.0-alpha/passess_0.11.0-alpha_linux_arm64.tar.gz"
+      sha256 "9963b7e07aeeb18f5c8544247936ced960f1a633085224ccd6c114be61f26d1c"
     end
     on_intel do
-      url "https://github.com/afsharid/passess/releases/download/v0.10.3-alpha/passess_0.10.3-alpha_linux_amd64.tar.gz"
-      sha256 "b90c0c650fa5facdf4899ef9af2eb970ba6207275ebc654059c641146faa568c"
+      url "https://github.com/afsharid/passess/releases/download/v0.11.0-alpha/passess_0.11.0-alpha_linux_amd64.tar.gz"
+      sha256 "18bd8083e8b7dddd34546a6402aa741cc9d3cf729994fbcd907f9a44eb5ca586"
     end
   end
 
